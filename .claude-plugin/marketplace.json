@@ -1,5 +1,6 @@
 {
   "name": "finally-marketplace",
+  "description": "Local marketplace for the FinAlly project's Claude Code plugins.",
   "owner": {
     "name": "Vincent"
   },
